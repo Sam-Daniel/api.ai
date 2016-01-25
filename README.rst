@@ -8,15 +8,15 @@ api_ai
 .. image:: https://img.shields.io/travis/fulfilio/api_ai.svg
         :target: https://travis-ci.org/fulfilio/api_ai
 
-.. image:: https://readthedocs.org/projects/api_ai/badge/?version=latest
-        :target: https://readthedocs.org/projects/api_ai/?badge=latest
+.. image:: https://readthedocs.org/projects/apiai/badge/?version=latest
+        :target: https://readthedocs.org/projects/apiai/?badge=latest
         :alt: Documentation Status
 
 
 API.ai Python client
 
 * Free software: ISC license
-* Documentation: https://api_ai.readthedocs.org.
+* Documentation: https://apiai.readthedocs.org.
 
 Features
 --------
